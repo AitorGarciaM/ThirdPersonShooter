@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/DEV/Unreal/TPS/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"E:/DEV/Unreal/TPS/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/DEV/Unreal/TPS/Content/Audio/Footsteps.uasset",
+				"E:/DEV/Unreal/TPS/Content/Audio/Hit_concrete.uasset",
+				"E:/DEV/Unreal/TPS/Content/Audio/Rifle.uasset"
 			]
 		}
 	]

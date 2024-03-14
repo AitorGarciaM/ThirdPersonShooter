@@ -1345,3 +1345,78 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.14-17.02.14:019][566]LogHttp: Warning: 000007D0038CD700: libcurl info message cache 7 (Closing connection 9)
 [2024.03.14-17.02.14:019][566]LogHttp: Warning: 000007D0038CD700: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
 [2024.03.14-17.02.14:019][566]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6C8B7C05-4110-E8F5-A538-7280F036719A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=d159e39d4f4276b0cc1e8595f8d54623%7C409d5d2e3d9f4d9190f22593e57c7a52%7Cc77a5e41-53ad-4a6e-81d0-62c1d5bda487&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.14-17.05.14:067][106]LogHttp: Warning: 000007CFFDDD8700: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6C8B7C05-4110-E8F5-A538-7280F036719A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=d159e39d4f4276b0cc1e8595f8d54623%7C409d5d2e3d9f4d9190f22593e57c7a52%7Cc77a5e41-53ad-4a6e-81d0-62c1d5bda487&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.14-17.05.14:067][106]LogHttp: Warning: 000007CFFDDD8700: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.14-17.05.14:067][106]LogHttp: Warning: 000007CFFDDD8700: libcurl info message cache 0 (Found bundle for host: 0x7cfcb9609f0 [serially])
+[2024.03.14-17.05.14:067][106]LogHttp: Warning: 000007CFFDDD8700: libcurl info message cache 1 (Re-using existing connection #10 with host datarouter.ol.epicgames.com)
+[2024.03.14-17.05.14:067][106]LogHttp: Warning: 000007CFFDDD8700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.172.3.149) port 443 (#10))
+[2024.03.14-17.05.14:067][106]LogHttp: Warning: 000007CFFDDD8700: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.14-17.05.14:067][106]LogHttp: Warning: 000007CFFDDD8700: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.14-17.05.14:067][106]LogHttp: Warning: 000007CFFDDD8700: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.14-17.05.14:068][106]LogHttp: Warning: 000007CFFDDD8700: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.14-17.05.14:068][106]LogHttp: Warning: 000007CFFDDD8700: libcurl info message cache 7 (Closing connection 10)
+[2024.03.14-17.05.14:068][106]LogHttp: Warning: 000007CFFDDD8700: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.14-17.05.14:068][106]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6C8B7C05-4110-E8F5-A538-7280F036719A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=d159e39d4f4276b0cc1e8595f8d54623%7C409d5d2e3d9f4d9190f22593e57c7a52%7Cc77a5e41-53ad-4a6e-81d0-62c1d5bda487&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.14-17.09.14:092][826]LogHttp: Warning: 000007CFFDDDC300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6C8B7C05-4110-E8F5-A538-7280F036719A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=d159e39d4f4276b0cc1e8595f8d54623%7C409d5d2e3d9f4d9190f22593e57c7a52%7Cc77a5e41-53ad-4a6e-81d0-62c1d5bda487&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.14-17.09.14:092][826]LogHttp: Warning: 000007CFFDDDC300: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.14-17.09.14:092][826]LogHttp: Warning: 000007CFFDDDC300: libcurl info message cache 0 (Found bundle for host: 0x7cfcb9606f0 [serially])
+[2024.03.14-17.09.14:092][826]LogHttp: Warning: 000007CFFDDDC300: libcurl info message cache 1 (Re-using existing connection #11 with host datarouter.ol.epicgames.com)
+[2024.03.14-17.09.14:092][826]LogHttp: Warning: 000007CFFDDDC300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.217.212.216) port 443 (#11))
+[2024.03.14-17.09.14:092][826]LogHttp: Warning: 000007CFFDDDC300: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.14-17.09.14:092][826]LogHttp: Warning: 000007CFFDDDC300: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.14-17.09.14:092][826]LogHttp: Warning: 000007CFFDDDC300: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.14-17.09.14:092][826]LogHttp: Warning: 000007CFFDDDC300: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.14-17.09.14:092][826]LogHttp: Warning: 000007CFFDDDC300: libcurl info message cache 7 (Closing connection 11)
+[2024.03.14-17.09.14:092][826]LogHttp: Warning: 000007CFFDDDC300: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.14-17.09.14:092][826]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6C8B7C05-4110-E8F5-A538-7280F036719A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=d159e39d4f4276b0cc1e8595f8d54623%7C409d5d2e3d9f4d9190f22593e57c7a52%7Cc77a5e41-53ad-4a6e-81d0-62c1d5bda487&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.14-17.12.14:104][366]LogHttp: Warning: 000007CFFDDDDC00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6C8B7C05-4110-E8F5-A538-7280F036719A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=d159e39d4f4276b0cc1e8595f8d54623%7C409d5d2e3d9f4d9190f22593e57c7a52%7Cc77a5e41-53ad-4a6e-81d0-62c1d5bda487&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.14-17.12.14:105][366]LogHttp: Warning: 000007CFFDDDDC00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.14-17.12.14:105][366]LogHttp: Warning: 000007CFFDDDDC00: libcurl info message cache 0 (Found bundle for host: 0x7cfcb960090 [serially])
+[2024.03.14-17.12.14:105][366]LogHttp: Warning: 000007CFFDDDDC00: libcurl info message cache 1 (Re-using existing connection #12 with host datarouter.ol.epicgames.com)
+[2024.03.14-17.12.14:105][366]LogHttp: Warning: 000007CFFDDDDC00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.194.101.41) port 443 (#12))
+[2024.03.14-17.12.14:105][366]LogHttp: Warning: 000007CFFDDDDC00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.14-17.12.14:105][366]LogHttp: Warning: 000007CFFDDDDC00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.14-17.12.14:105][366]LogHttp: Warning: 000007CFFDDDDC00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.14-17.12.14:105][366]LogHttp: Warning: 000007CFFDDDDC00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.14-17.12.14:105][366]LogHttp: Warning: 000007CFFDDDDC00: libcurl info message cache 7 (Closing connection 12)
+[2024.03.14-17.12.14:105][366]LogHttp: Warning: 000007CFFDDDDC00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.14-17.12.14:105][366]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6C8B7C05-4110-E8F5-A538-7280F036719A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=d159e39d4f4276b0cc1e8595f8d54623%7C409d5d2e3d9f4d9190f22593e57c7a52%7Cc77a5e41-53ad-4a6e-81d0-62c1d5bda487&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.14-17.13.35:848][ 37]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.14-17.13.35:857][ 37]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.14-17.13.35:869][ 38]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.14-17.13.39:140][383]LogContentBrowser: Attempting asset rename: NewFolder -> Audio
+[2024.03.14-17.13.39:141][383]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.14-17.14.10:833][800]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 E:\Downloads\Footsteps.wav)
+[2024.03.14-17.14.10:848][800]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Footsteps...
+[2024.03.14-17.14.10:852][800]LogAudio: Display: Chunk size for SoundWave /Game/Audio/Footsteps.Footsteps: 262144
+[2024.03.14-17.14.10:853][800]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Footsteps...
+[2024.03.14-17.14.10:856][800]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 E:\Downloads\Rifle.wav)
+[2024.03.14-17.14.10:858][800]LogAudio: Display: Chunk size for SoundWave /Game/Audio/Footsteps.Footsteps: 262144
+[2024.03.14-17.14.10:858][800]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Rifle...
+[2024.03.14-17.14.10:870][800]LogAudio: Display: Chunk size for SoundWave /Game/Audio/Rifle.Rifle: 262144
+[2024.03.14-17.14.10:871][800]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Rifle...
+[2024.03.14-17.14.10:873][800]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 E:\Downloads\Hit concrete.wav)
+[2024.03.14-17.14.10:884][800]LogAudio: Display: Chunk size for SoundWave /Game/Audio/Rifle.Rifle: 262144
+[2024.03.14-17.14.10:885][800]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Hit_concrete...
+[2024.03.14-17.14.10:894][800]LogAudio: Display: Chunk size for SoundWave /Game/Audio/Hit_concrete.Hit_concrete: 262144
+[2024.03.14-17.14.10:895][800]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Hit_concrete...
+[2024.03.14-17.14.10:902][800]LogAudio: Display: Chunk size for SoundWave /Game/Audio/Hit_concrete.Hit_concrete: 262144
+[2024.03.14-17.14.14:620][995]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2024.03.14-17.14.15:872][995]LogSlate: Window 'Save Content' being destroyed
+[2024.03.14-17.14.15:885][995]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.14-17.14.15:959][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Footsteps" FILE="E:/DEV/Unreal/TPS/Content/Audio/Footsteps.uasset" SILENT=true
+[2024.03.14-17.14.15:968][995]LogPackageLocalizationCache: Processed 42 localized package path(s) for 1 prioritized culture(s) in 0.008612 seconds
+[2024.03.14-17.14.15:969][995]LogSerialization: UsePackageTrailer: 'true'
+[2024.03.14-17.14.15:975][995]LogSavePackage: Moving output files for package: /Game/Audio/Footsteps
+[2024.03.14-17.14.15:975][995]LogSavePackage: Moving 'E:/DEV/Unreal/TPS/Saved/FootstepsA11B48E841D5C204ED19CD8BE9840277.tmp' to 'E:/DEV/Unreal/TPS/Content/Audio/Footsteps.uasset'
+[2024.03.14-17.14.15:979][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Hit_concrete" FILE="E:/DEV/Unreal/TPS/Content/Audio/Hit_concrete.uasset" SILENT=true
+[2024.03.14-17.14.15:984][995]LogSavePackage: Moving output files for package: /Game/Audio/Hit_concrete
+[2024.03.14-17.14.15:984][995]LogSavePackage: Moving 'E:/DEV/Unreal/TPS/Saved/Hit_concrete1C3C1B5545CA9A7D0A6876B10B84698F.tmp' to 'E:/DEV/Unreal/TPS/Content/Audio/Hit_concrete.uasset'
+[2024.03.14-17.14.15:987][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Rifle" FILE="E:/DEV/Unreal/TPS/Content/Audio/Rifle.uasset" SILENT=true
+[2024.03.14-17.14.16:013][995]LogSavePackage: Moving output files for package: /Game/Audio/Rifle
+[2024.03.14-17.14.16:013][995]LogSavePackage: Moving 'E:/DEV/Unreal/TPS/Saved/Rifle32D1044E4EEE2B9AF8154F9D7A05290D.tmp' to 'E:/DEV/Unreal/TPS/Content/Audio/Rifle.uasset'
+[2024.03.14-17.14.16:023][995]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms
+[2024.03.14-17.14.16:027][995]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.14-17.14.16:027][995]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Hit_concrete.Hit_concrete
+[2024.03.14-17.14.16:027][995]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Rifle.Rifle
+[2024.03.14-17.14.16:027][995]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Footsteps.Footsteps
