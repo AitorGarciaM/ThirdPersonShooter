@@ -5,3 +5,4 @@ Assets used:
 - Animation Starter Pack (Unreal Engine Marketplace).
 - FPS Weapon Bundle (Unreal Engine Marketplace).
 - Infinite Blade: Effects (Unreal Engine Marketplace).
+- Stylized Character Kit: Casual 01 (Unreal Engine Marketplace). 
