@@ -5,10 +5,26 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/DEV/Unreal/TPS/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"E:/DEV/Unreal/TPS/Content/Audio/Footsteps.uasset",
-				"E:/DEV/Unreal/TPS/Content/Audio/Hit_concrete.uasset",
-				"E:/DEV/Unreal/TPS/Content/Audio/Rifle.uasset"
+				"E:/DEV/Unreal/TPS/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/DEV/Unreal/TPS/Content/ThirdPersonShooterAnimations/Jog_Fwd_Rifle.uasset",
+				"E:/DEV/Unreal/TPS/Content/ThirdPersonShooterAnimations/Fire_Rifle_Ironsights.uasset",
+				"E:/DEV/Unreal/TPS/Content/ThirdPersonShooterAnimations/Idle_Rifle_Ironsights.uasset",
+				"E:/DEV/Unreal/TPS/Content/ThirdPersonShooterAnimations/Idle_Rifle_Aim.uasset",
+				"E:/DEV/Unreal/TPS/Content/ThirdPersonShooterAnimations/Idle_Rifle_Hip.uasset",
+				"E:/DEV/Unreal/TPS/Content/ThirdPersonShooterAnimations/ABP_Shooter.uasset",
+				"E:/DEV/Unreal/TPS/Content/Fire_Rifle_Ironsights.uasset",
+				"E:/DEV/Unreal/TPS/Content/Jog_Fwd_Rifle.uasset",
+				"E:/DEV/Unreal/TPS/Content/Idle_Rifle_Ironsights.uasset",
+				"E:/DEV/Unreal/TPS/Content/Idle_Rifle_Hip.uasset",
+				"E:/DEV/Unreal/TPS/Content/Idle_Rifle_Ironsights1.uasset",
+				"E:/DEV/Unreal/TPS/Content/ThirdPersonShooterAnimations/Idle_Rifle_Ironsights1.uasset",
+				"E:/DEV/Unreal/TPS/Content/ThirdPersonShooterAnimations/ShooterBP1D.uasset",
+				"E:/DEV/Unreal/TPS/Content/ThirdPersonShooterAnimations/AimOffset/AO_Shooter.uasset",
+				"E:/DEV/Unreal/TPS/Content/ThirdPersonShooterAnimations/AimOffset/Aim_Forward.uasset",
+				"E:/DEV/Unreal/TPS/Content/ThirdPersonShooterAnimations/AimOffset/Aim_Up.uasset",
+				"E:/DEV/Unreal/TPS/Content/ThirdPersonShooterAnimations/AimOffset/Aim_Down.uasset",
+				"E:/DEV/Unreal/TPS/Content/Blueprints/BP_Player.uasset",
+				"E:/DEV/Unreal/TPS/Content/SCK_Casual01/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset"
 			]
 		}
 	]
