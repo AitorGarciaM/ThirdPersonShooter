@@ -5,16 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/DEV/Unreal/TPS/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"E:/DEV/Unreal/TPS/Content/Blueprints/BP_Player.uasset",
-				"E:/DEV/Unreal/TPS/Content/ThirdPerson/Input/Actions/IA_Shoot.uasset",
-				"E:/DEV/Unreal/TPS/Content/ThirdPerson/Input/Actions/IA_AIM.uasset",
-				"E:/DEV/Unreal/TPS/Content/ThirdPerson/Input/IMC_Default.uasset",
-				"E:/DEV/Unreal/TPS/Content/ThirdPersonShooterAnimations/AM_Fire.uasset",
-				"E:/DEV/Unreal/TPS/Content/Blueprints/HUD/UIBP_Player.uasset",
-				"E:/DEV/Unreal/TPS/Content/Pointer.uasset",
-				"E:/DEV/Unreal/TPS/Content/ThirdPersonShooterAnimations/ABP_Shooter.uasset",
-				"E:/DEV/Unreal/TPS/Content/Blueprints/BP_ThirdPersonShooterGameMode.uasset"
+				"E:/DEV/Unreal/TPS/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/DEV/Unreal/TPS/Content/Blueprints/BP_AI.uasset",
+				"E:/DEV/Unreal/TPS/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/20/RI8ZPEC8DSIR7CK39TQQH3.uasset",
+				"E:/DEV/Unreal/TPS/Content/SCK_Casual01/Models/Premade_Characters/MESH_PC_01.uasset",
+				"E:/DEV/Unreal/TPS/Content/Blueprints/BP_Player.uasset"
 			]
 		}
 	]
