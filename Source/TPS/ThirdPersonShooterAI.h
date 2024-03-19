@@ -21,9 +21,9 @@ public:
 	AThirdPersonShooterAI();
 protected:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
-	class UPawnSensingComponent* PawnSensing;
-	class UNavigationSystemV1* NavArea;
-	class AAIController* AIController;
+	UPawnSensingComponent* PawnSensing;
+	UNavigationSystemV1* NavArea;
+	AAIController* AIController;
 
 	FVector RandomTargetLocation;
 

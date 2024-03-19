@@ -9,7 +9,9 @@
 				"E:/DEV/Unreal/TPS/Content/Blueprints/BP_AI.uasset",
 				"E:/DEV/Unreal/TPS/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/20/RI8ZPEC8DSIR7CK39TQQH3.uasset",
 				"E:/DEV/Unreal/TPS/Content/SCK_Casual01/Models/Premade_Characters/MESH_PC_01.uasset",
-				"E:/DEV/Unreal/TPS/Content/Blueprints/BP_Player.uasset"
+				"E:/DEV/Unreal/TPS/Content/Blueprints/BP_Player.uasset",
+				"E:/DEV/Unreal/TPS/Content/Blueprints/HUD/UIBP_Player.uasset",
+				"E:/DEV/Unreal/TPS/Content/Blueprints/HUD/UIBP_AI.uasset"
 			]
 		}
 	]

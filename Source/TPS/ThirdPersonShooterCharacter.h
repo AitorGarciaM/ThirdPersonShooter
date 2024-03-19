@@ -42,6 +42,9 @@ protected:
 	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category= "Shooter Character")
 	bool bIsAiming;
 
+	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Shooter Character")
+	bool bIsDeath;
+
 	bool bDoOnce;
 
 	// Called when the game starts or when spawned

@@ -27,6 +27,7 @@ AThirdPersonShooterCharacter::AThirdPersonShooterCharacter()
 void AThirdPersonShooterCharacter::BeginPlay()
 {
 	Super::BeginPlay();
+	bIsDeath = false;
 }
 
 void AThirdPersonShooterCharacter::Shoot()
@@ -76,6 +77,7 @@ float AThirdPersonShooterCharacter::TakeDamage(float DamageAmount, FDamageEvent 
 	{
 		Mesh->SetSimulatePhysics(true);
 		DisableInput(nullptr);
+		bIsDeath = true;
 	}
 
 	return Health;

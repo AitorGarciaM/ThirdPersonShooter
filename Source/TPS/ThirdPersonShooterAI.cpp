@@ -87,9 +87,9 @@ void AThirdPersonShooterAI::ChaseTarget(APawn* TargetPawn)
 
 void AThirdPersonShooterAI::Tick(float DeltaTime)
 {
-	if (bIsShootingPlayer)
+	if (bIsShootingPlayer && !bIsDeath)
 	{
-		Shoot()
+		Shoot();
 	}
 }
 
